@@ -104,3 +104,12 @@ C:\Users\anixi\Downloads\aspnet-webhooks-rest-sample-master\GraphWebhooks\obj\De
 C:\Users\anixi\Downloads\aspnet-webhooks-rest-sample-master\GraphWebhooks\obj\Debug\GraphWebhooks.csproj.CopyComplete
 C:\Users\anixi\Downloads\aspnet-webhooks-rest-sample-master\GraphWebhooks\obj\Debug\GraphWebhooks.dll
 C:\Users\anixi\Downloads\aspnet-webhooks-rest-sample-master\GraphWebhooks\obj\Debug\GraphWebhooks.pdb
+C:\Users\anixi\source\repos\GraphWebhooks\bin\GraphWebhooks.dll.config
+C:\Users\anixi\source\repos\GraphWebhooks\bin\GraphWebhooks.dll
+C:\Users\anixi\source\repos\GraphWebhooks\bin\GraphWebhooks.pdb
+C:\Users\anixi\source\repos\GraphWebhooks\bin\GraphWebhooks.dll.CodeAnalysisLog.xml
+C:\Users\anixi\source\repos\GraphWebhooks\bin\GraphWebhooks.dll.lastcodeanalysissucceeded
+C:\Users\anixi\source\repos\GraphWebhooks\obj\Debug\GraphWebhooks.csproj.CoreCompileInputs.cache
+C:\Users\anixi\source\repos\GraphWebhooks\obj\Debug\GraphWebhooks.csproj.CopyComplete
+C:\Users\anixi\source\repos\GraphWebhooks\obj\Debug\GraphWebhooks.dll
+C:\Users\anixi\source\repos\GraphWebhooks\obj\Debug\GraphWebhooks.pdb
